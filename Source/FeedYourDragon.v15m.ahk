@@ -53,7 +53,7 @@ P::Pause
 1::
 Loop
 {
-Click Down 1374, 658
-Click Up 1040, 658
+Click Down 1522, 623
+Click Up 1195, 623
 Return
 }
